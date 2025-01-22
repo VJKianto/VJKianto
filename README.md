@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VJKianto
-- 👀 I’m interested in ...Data/Business analytics
+- 👀 I’m interested in ...Data analytics/Data science
 - 🌱 I’m currently studying Data analytics in decision making at LUT University, Finland.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
