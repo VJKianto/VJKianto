@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VJKianto
-- 👀 I’m interested in ...Data analytics/Data science
-- 🌱 I’m currently studying Data analytics in decision making at LUT University, Finland.
+- 👀 I’m interested in ...Data Analytics/Data Science
+- 🌱 I’m currently working as a Data Analyst at a bank. Master's degree in Industrial Engineering/Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
